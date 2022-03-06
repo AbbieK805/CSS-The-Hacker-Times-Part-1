@@ -138,3 +138,16 @@ p {
     font-family: 'Roboto Slab';
     text-align: left;
   }
+
+nav {
+ background-color: white;
+ margin: 0px;
+ position: sticky;
+
+  }
+
+ .footer a {
+    padding: 15em;
+    margin-left: 2em;
+    
+  }
